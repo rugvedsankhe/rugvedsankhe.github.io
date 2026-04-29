@@ -201,6 +201,7 @@ li {
     background: var(--surface-color);
     padding: 40px;
     border-radius: 10px;
+    border-left: 4px solid var(--primary-accent); /* 🔥 add this */
 }
 
 /* Footer */
