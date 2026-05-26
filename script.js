@@ -68,6 +68,13 @@ document.addEventListener("DOMContentLoaded", () => {
       date: "April 19, 2026",
       skills: ["Finance"],
       file: "assets/certificates/cert_working_capital.pdf",
+    },
+    {
+      title: "Marketing Strategy: Case Studiesfrom Leading Brands",
+      issuer: "MIT-WPU",
+      date: "April 19, 2026",
+      skills: ["Finance"],
+      file: "assets/certificates/cert_marketing.pdf",
     }
   ];
 
